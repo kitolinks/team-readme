@@ -1,6 +1,6 @@
 # team-readme
 ## About
-This repository is for our branching and merge conflict activity.
+Math program, Year 9
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
