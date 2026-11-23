@@ -1,4 +1,11 @@
 # team-readme
+## Table of Contents
+- [About](##About)
+- [Members](##Members)
+- [Meeting Schedule](##Meeting_Schedule)
+- [Tools We Use](##Tools_We_Use)
+- [Contact](##Contact)
+- [Learning Goals](##Learning_Goals)
 ## About
 This course is COMSCI 3, 9-Sodium, Sir Kyle.
 Math program, Year 9
