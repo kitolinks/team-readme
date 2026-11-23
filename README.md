@@ -1,6 +1,6 @@
 # team-readme
 ## About
-This repository is for our branching and merge conflict activity.
+This course is COMSCI 3, 9-Sodium, Sir Kyle.
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
