@@ -7,6 +7,10 @@ Math program, Year 9
 | ------ | ------ | ------ |
 | Lourd Nathaniel Menor | Student A | kitolinks |
 | Joelliann B. Santander | Student B | JoelliannSantander |
+## Meeting Schedule
+| Monday | Tuesday | Wednesday | 
+| ------ | ------ | ------ |
+| 7:00 AM - 9:00 AM | 7:00 AM - 9:00 AM | 7:00 AM - 9:00 AM |
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
