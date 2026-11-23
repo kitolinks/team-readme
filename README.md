@@ -2,6 +2,11 @@
 ## About
 This course is COMSCI 3, 9-Sodium, Sir Kyle.
 Math program, Year 9
+## Members
+| Name | Role | GitHug Username |
+| ------ | ------ | ------ |
+| Lourd Nathaniel Menor | Student A | kitolinks |
+| Joelliann B. Santander | Student B | JoelliannSantander |
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
